@@ -130,7 +130,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="drawLibLOZKO.h" />
-    <ClInclude Include="Header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
